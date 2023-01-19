@@ -1,0 +1,34 @@
+pindahkan project dari repository di github ke dalam repository lokal
+buat branch baru dengan nama masing-masing
+edit file pada masing-masing branch
+pindahkan project pada repository lokal ke dalam repository di github
+gabungkan hasil update branch masing-masing ke dalam branch main
+
+
+>>>>>> hasil pada branch masing-masing <<<<<<<
+
+nama : xxxxxxx
+TTL : xxxxx
+Asal Daerah : xxxxxxx
+No. HP : xxxxxxx
+
+========================
+
+>>>>>> hasil pada branch main <<<<<<<
+
+nama : xxxxxxx
+TTL : xxxxx
+Asal Daerah : xxxxxxx
+No. HP : xxxxxxx
+
+nama : xxxxxxx
+TTL : xxxxx
+Asal Daerah : xxxxxxx
+No. HP : xxxxxxx
+
+nama : xxxxxxx
+TTL : xxxxx
+Asal Daerah : xxxxxxx
+No. HP : xxxxxxx
+
+========================
