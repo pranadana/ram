@@ -7,8 +7,8 @@ gabungkan hasil update branch masing-masing ke dalam branch main
 
 >>>>>> hasil pada branch masing-masing <<<<<<<
 
-nama : xxxxxxx
-TTL : xxxxx
+nama : Maulana wahid Al-amri
+TTL : 
 Asal Daerah : xxxxxxx
 No. HP : xxxxxxx
 
